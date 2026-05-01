@@ -20,3 +20,17 @@
     border-top-left-radius: 45px;
     border-bottom-left-radius: 45px;
 }
+
+.left {
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left > form {
+    width: 404px;
+    height: 638px;
+    border: 1px solid black;
+}
